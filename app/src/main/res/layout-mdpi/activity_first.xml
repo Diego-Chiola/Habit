@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/svg_first_activity_background"
+    android:fitsSystemWindows="true"
+    tools:context=".activities.FirstActivity">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="start"
+        android:orientation="vertical"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.16"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.22000003">
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <View
+                android:id="@+id/v_top_rect"
+                android:layout_width="95sp"
+                android:layout_height="5sp"
+                android:layout_marginStart="6sp"
+                android:layout_marginBottom="-22sp"
+                android:foreground="@drawable/d_rounded_corner"
+                android:foregroundTint="@color/white" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/sora"
+                android:text="@string/app_name_logo"
+                android:textColor="@color/white"
+                android:textSize="70sp" />
+
+            <View
+                android:id="@+id/v_bottom_rect"
+                android:layout_width="93sp"
+                android:layout_height="5sp"
+                android:layout_gravity="end"
+                android:layout_marginLeft="6dp"
+                android:layout_marginTop="-11sp"
+                android:layout_marginRight="1sp"
+                android:foreground="@drawable/d_rounded_corner"
+                android:foregroundTint="@color/white" />
+
+        </LinearLayout>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="6sp"
+            android:layout_marginTop="-23sp"
+            android:text="@string/your_personal_habits_tracker"
+            android:textColor="@color/white"
+            android:textFontWeight="200"
+            android:textSize="20sp" />
+
+    </LinearLayout>
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

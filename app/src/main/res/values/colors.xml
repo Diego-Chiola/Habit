@@ -7,4 +7,15 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="box1">#82D9D9D9</color>
+    <color name="transparent">#80000000</color>
+    <color name="main_orange">#FF9472</color>
+
+    <color name="instagram">#FFA101</color>
+    <color name="facebook">#FE4728</color>
+    <color name="youtube">#F80093</color>
+    <color name="pinterest">#C21296</color>
+    <color name="linkedin">#01AFEC</color>
+    <color name="twitter">#3554AF</color>
+
 </resources>

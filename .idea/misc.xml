@@ -1,9 +1,78 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/alexv/Desktop/habit_android/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1815" />
+        <entry key="..\:/Users/alexv/Desktop/habit_android/app/src/main/res/drawable/backgroud_edittext1.xml" value="0.306" />
+        <entry key="..\:/Users/alexv/Desktop/habit_android/app/src/main/res/drawable/background_edittext1.xml" value="0.306" />
+        <entry key="..\:/Users/alexv/Desktop/habit_android/app/src/main/res/drawable/background_launcher.xml" value="0.3205" />
+        <entry key="..\:/Users/alexv/Desktop/habit_android/app/src/main/res/drawable/bottom_app_bar_background.xml" value="0.318" />
+        <entry key="..\:/Users/alexv/Desktop/habit_android/app/src/main/res/drawable/custom_box_1.xml" value="0.3205" />
+        <entry key="..\:/Users/alexv/Desktop/habit_android/app/src/main/res/drawable/custom_button_t1_background.xml" value="0.1215" />
+        <entry key="..\:/Users/alexv/Desktop/habit_android/app/src/main/res/drawable/custom_button_t1_shape.xml" value="0.3205" />
+        <entry key="..\:/Users/alexv/Desktop/habit_android/app/src/main/res/drawable/d_rounded_corner.xml" value="0.3625" />
+        <entry key="..\:/Users/alexv/Desktop/habit_android/app/src/main/res/drawable/gradient_main.xml" value="0.3205" />
+        <entry key="..\:/Users/alexv/Desktop/habit_android/app/src/main/res/drawable/gradient_man_to_white.xml" value="0.3065" />
+        <entry key="..\:/Users/alexv/Desktop/habit_android/app/src/main/res/drawable/gradient_shape.xml" value="0.3625" />
+        <entry key="..\:/Users/alexv/Desktop/habit_android/app/src/main/res/drawable/home_right_box_background.xml" value="0.318" />
+        <entry key="..\:/Users/alexv/Desktop/habit_android/app/src/main/res/drawable/ic_home_selector.xml" value="0.309" />
+        <entry key="..\:/Users/alexv/Desktop/habit_android/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1815" />
+        <entry key="..\:/Users/alexv/Desktop/habit_android/app/src/main/res/drawable/ic_settings.xml" value="0.309" />
+        <entry key="..\:/Users/alexv/Desktop/habit_android/app/src/main/res/drawable/ic_svg_first_activity_background.xml" value="0.3635" />
+        <entry key="..\:/Users/alexv/Desktop/habit_android/app/src/main/res/drawable/ic_svg_intro2_activity_background.xml" value="0.3205" />
+        <entry key="..\:/Users/alexv/Desktop/habit_android/app/src/main/res/drawable/image_background_analytics_list_item.xml" value="0.2845" />
+        <entry key="..\:/Users/alexv/Desktop/habit_android/app/src/main/res/drawable/line_separator.xml" value="0.311" />
+        <entry key="..\:/Users/alexv/Desktop/habit_android/app/src/main/res/drawable/prova.xml" value="0.318" />
+        <entry key="..\:/Users/alexv/Desktop/habit_android/app/src/main/res/drawable/svg_first_activity_background.xml" value="0.1815" />
+        <entry key="..\:/Users/alexv/Desktop/habit_android/app/src/main/res/drawable/svg_intro1_activity_background.xml" value="0.1815" />
+        <entry key="..\:/Users/alexv/Desktop/habit_android/app/src/main/res/drawable/svg_toolbar_background.xml" value="0.318" />
+        <entry key="..\:/Users/alexv/Desktop/habit_android/app/src/main/res/font/sora.xml" value="0.3927083333333333" />
+        <entry key="..\:/Users/alexv/Desktop/habit_android/app/src/main/res/font/sora_extralight.xml" value="0.3927083333333333" />
+        <entry key="..\:/Users/alexv/Desktop/habit_android/app/src/main/res/font/sora_light.xml" value="0.215625" />
+        <entry key="..\:/Users/alexv/Desktop/habit_android/app/src/main/res/font/sora_thin.xml" value="0.3927083333333333" />
+        <entry key="..\:/Users/alexv/Desktop/habit_android/app/src/main/res/layout-small/activity_first.xml" value="0.2" />
+        <entry key="..\:/Users/alexv/Desktop/habit_android/app/src/main/res/layout/activity_analytics_more.xml" value="0.3625" />
+        <entry key="..\:/Users/alexv/Desktop/habit_android/app/src/main/res/layout/activity_first.xml" value="0.33" />
+        <entry key="..\:/Users/alexv/Desktop/habit_android/app/src/main/res/layout/activity_home.xml" value="0.33" />
+        <entry key="..\:/Users/alexv/Desktop/habit_android/app/src/main/res/layout/activity_intro1.xml" value="0.33" />
+        <entry key="..\:/Users/alexv/Desktop/habit_android/app/src/main/res/layout/activity_intro2.xml" value="0.33" />
+        <entry key="..\:/Users/alexv/Desktop/habit_android/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/alexv/Desktop/habit_android/app/src/main/res/layout/activity_permission.xml" value="0.33" />
+        <entry key="..\:/Users/alexv/Desktop/habit_android/app/src/main/res/layout/activity_register.xml" value="0.33" />
+        <entry key="..\:/Users/alexv/Desktop/habit_android/app/src/main/res/layout/analytics_list_item.xml" value="0.5" />
+        <entry key="..\:/Users/alexv/Desktop/habit_android/app/src/main/res/layout/custom_button_t1.xml" value="0.3614583333333333" />
+        <entry key="..\:/Users/alexv/Desktop/habit_android/app/src/main/res/layout/fragment_analytics.xml" value="0.33" />
+        <entry key="..\:/Users/alexv/Desktop/habit_android/app/src/main/res/layout/fragment_home.xml" value="0.3625" />
+        <entry key="..\:/Users/alexv/Desktop/habit_android/app/src/main/res/layout/fragment_settings.xml" value="0.33" />
+        <entry key="..\:/Users/alexv/Desktop/habit_android/app/src/main/res/menu/menu_home_bottom_navigation.xml" value="0.3625" />
+        <entry key="..\:/Users/gabri/OneDrive/Desktop/Uni/3 anno/IOT/Habit/app/src/main/res/layout-h600dp-normal/fragment_settings.xml" value="0.24427083333333333" />
+        <entry key="..\:/Users/gabri/OneDrive/Desktop/Uni/3 anno/IOT/Habit/app/src/main/res/layout-normal/fragment_settings.xml" value="0.20679012345679013" />
+        <entry key="..\:/Users/gabri/OneDrive/Desktop/Uni/3 anno/IOT/Habit/app/src/main/res/layout-small/fragment_settings.xml" value="0.6236702127659575" />
+        <entry key="..\:/Users/gabri/OneDrive/Desktop/Uni/3 anno/IOT/Habit/app/src/main/res/layout/activity_first.xml" value="0.23641304347826086" />
+        <entry key="..\:/Users/gabri/OneDrive/Desktop/Uni/3 anno/IOT/Habit/app/src/main/res/layout/activity_intro1.xml" value="0.4" />
+        <entry key="..\:/Users/gabri/OneDrive/Desktop/Uni/3 anno/IOT/Habit/app/src/main/res/layout/activity_intro2.xml" value="0.15677083333333333" />
+        <entry key="..\:/Users/gabri/OneDrive/Desktop/Uni/3 anno/IOT/Habit/app/src/main/res/layout/activity_main.xml" value="0.4" />
+        <entry key="..\:/Users/gabri/OneDrive/Desktop/Uni/3 anno/IOT/Habit/app/src/main/res/layout/activity_permission.xml" value="0.4" />
+        <entry key="..\:/Users/gabri/OneDrive/Desktop/Uni/3 anno/IOT/Habit/app/src/main/res/layout/activity_register.xml" value="0.4" />
+        <entry key="..\:/Users/gabri/OneDrive/Desktop/Uni/3 anno/IOT/Habit/app/src/main/res/layout/analytics_list_item.xml" value="0.4" />
+        <entry key="..\:/Users/gabri/OneDrive/Desktop/Uni/3 anno/IOT/Habit/app/src/main/res/layout/fragment_analytics.xml" value="0.4" />
+        <entry key="..\:/Users/gabri/OneDrive/Desktop/Uni/3 anno/IOT/Habit/app/src/main/res/layout/fragment_home.xml" value="0.4" />
+        <entry key="..\:/Users/gabri/OneDrive/Desktop/Uni/3 anno/IOT/Habit/app/src/main/res/layout/fragment_settings.xml" value="0.264" />
+      </map>
+    </option>
+  </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />
   </component>
   <component name="ProjectType">
     <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.3625" />
+      </ProjectState>
+    </option>
   </component>
 </project>

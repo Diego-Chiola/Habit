@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="_8sp" type="dimen">8sp</item>
+    <item name="_150sdp" type="dimen">@dimen/_150sdp</item>
+    <item name="_200sdp" type="dimen">@dimen/_200sdp</item>
+    <item name="default_margin" type="dimen">20dp</item>
+</resources>

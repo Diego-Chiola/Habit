@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/bnm_home"
+        android:title="@string/home"
+        android:enabled="true"
+        android:icon="@drawable/ic_home" />
+
+    <item
+        android:id="@+id/bnm_analytics"
+        android:title="@string/analytics"
+        android:enabled="true"
+        android:icon="@drawable/ic_analytics" />
+
+    <item
+        android:id="@+id/bnm_settings"
+        android:title="@string/settings"
+        android:enabled="true"
+        android:icon="@drawable/ic_settings" />
+
+
+</menu>
